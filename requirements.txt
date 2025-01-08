@@ -2,5 +2,4 @@ pymupdf
 nltk
 scikit-learn
 streamlit
-pathlib
-os
+pathlib>=1.0.0
