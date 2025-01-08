@@ -1,0 +1,6 @@
+pymupdf
+nltk
+scikit-learn
+streamlit
+pathlib
+os
